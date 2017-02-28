@@ -1,5 +1,5 @@
 {
-  "name": "topSdk",
+  "name": "alidayu",
   "version": "0.0.1",
   "description": "Taobao Open API Client.",
   "keywords": [
@@ -14,5 +14,18 @@
   },
   "engines": {
     "node": ">=0.8"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warfrogsdf/alidayu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warfrogsdf/alidayu/issues"
+  },
+  "homepage": "https://github.com/warfrogsdf/alidayu#readme"
 }
