@@ -1,6 +1,6 @@
 {
-  "name": "alidayu",
-  "version": "0.0.1",
+  "name": "alidayu-sdk",
+  "version": "0.0.2",
   "description": "Taobao Open API Client.",
   "keywords": [
     "top",
