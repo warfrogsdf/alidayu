@@ -9,7 +9,7 @@ const TopClient = require( './topClient' ).TopClient;
 const client = new TopClient({
     'appkey' : 'yourappkey' ,
     'appsecret' : 'yourappsecret' ,
-    'REST_URL' : 'yourREST_URL'
+    'REST_URL' : 'http://gw.api.taobao.com/router/rest'
 });
 
 client.execute( 'alibaba.aliqin.fc.sms.num.send' , {
